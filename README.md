@@ -1,7 +1,7 @@
 
 preview
 <h1 align="center">Hi 👋, I'm Chandru</h1>
-<h3 align="center">My name is Chandru, and I'm a Software Developer currently in my final year at VIT Chennai. 🚀</h3>
+<h3 align="center">My name is Chandru, and I'm a Software Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrub02&label=Profile%20views&color=0e75b6&style=flat" alt="chandrub02" /> </p>
 
@@ -9,7 +9,7 @@ preview
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Silent Alert For students**
+- 🔭 I’m currently working on **School Projects**
 
 - 🌱 I’m currently learning **Devops,AWS**
 
